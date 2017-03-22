@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dong.shangri.sliderightactivity.MyRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dong.shangri.sliderightactivity.MainActivity">
+
+    <com.dong.shangri.sliderightactivity.MyViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </com.dong.shangri.sliderightactivity.MyViewPager>
+</com.dong.shangri.sliderightactivity.MyRelativeLayout>
